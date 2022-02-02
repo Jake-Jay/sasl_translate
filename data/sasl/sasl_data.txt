@@ -1,0 +1,334 @@
+woman	WOMAN
+a woman cooks pap	WOMAN PAP COOK
+woman	WOMAN
+man	MAN
+the man is searching for a cow	MAN COW SEARCH
+man	MAN
+baby	BABY
+the baby is crying because it is hungry	BABY CRYING WHY HUNGRY
+baby	BABY
+girl	GIRL
+the girl is short and her hair is tied up	GIRL SHORT HAIR-TIED
+girl	GIRL
+boy	BOY
+the boy wears a T-shirt	BOY WEAR SHIRT
+boy	BOY
+friend	FRIEND
+Are you two friends?	YOU-TWO FRIEND?
+friend	FRIEND
+family	FAMILY
+Where is your family's home?	FAMILY HOME WHERE?
+mother	MOTHER
+the mother ties her baby on her back and walks off	MOTHER BABY BACK-TIE  WALK-TOGETHER
+mother	MOTHER
+father	FATHER
+The father has a big round tummy	FATHER  BIG-STOMACH
+father	FATHER
+sister	SISTER
+My big sister and I are wearing the same clothes	SISTER ME WEAR SAME
+sister	SISTER
+brother	BROTHER
+I love my tall brother	BROTHER TALL ME LOVE
+brother	BROTHER
+grandmother	MOTHER OLD
+The grandmother looks after the small children	MOTHER OLD CHILDREN LOOK-AFTER
+grandmother	MOTHER OLD
+grandfather	FATHER OLD
+grandfather sits with his hands on his stick	FATHER OLD HAND ON STICK
+grandfather	FATHER OLD
+aunt	AUNT
+My mother and my aunt are going to the shop	MOTHER AUNT SHOP WALK-TOGETHER
+aunt	AUNT
+uncle	UNCLE
+The uncle is a taxi driver	UNCLE TAXI DRIVER
+uncle	UNCLE
+name	NAME
+What is your name?	NAME YOU WHAT?
+name	NAME
+short	SHORT
+He is a short man	MAN HIM SHORT
+short	SHORT
+tall	TALL
+Wow! You are tall!	WOW YOU TALL
+rude	RUDE
+Making faces like that is rude	FUNNY-FACE YOU RUDE
+hearing	HEARING
+Those two people over there are hearing	THERE PEOPLE TWO THEY HEARING
+deaf	DEAF
+I am deaf and you are hearing	ME DEAF YOU HEARING
+hello	HELLO
+Two people meet and say hello	PEOPLE MEET HELLO HELLO
+please	PLEASE
+Can you please fetch me that cup over there?	CUP THERE TO ME PLEASE
+thank you	THANK YOU
+This present is for me? Thank you	PRESENT ME THANK YOU
+thank you	THANK YOU
+sorry	SORRY
+I broke the vase. I am sorry	VASE BROKE. ME SORRY
+help	HELP
+The man helps by carrying the boy	MAN THERE BOY THERE HELP HOW CARRY
+help	HELP
+run	RUN
+The boy runs	BOY RUN
+walk	WALK
+Come on! You walk so slowly.	COME YOU WALK-SLOW
+walk	WALK
+laugh	LAUGH
+The girl laughs at what she reads.	GIRL THEY READ LAUGH
+stand	STAND
+Father stands and waits for the taxi	FATHER STAND STAND STAND WHY TAXI ARRIVE
+sick	SICK
+The man is in bed because he is sick.	MAN SLEEP LIE WHY SICK
+sleep	SLEEP
+The moon is there. You must go to sleep.	MOON THERE YOU SLEEP NOW.
+cry	CRY
+My brother has gone so I cry.	ME CRY WHY BROTHER GONE
+bath	BATH
+After you have played all day, you bath at night.	ALL-DAY PLAY NIGHT BATH
+want	WANT
+I want that apple	APPLE THERE WANT
+want	WANT
+brush	BRUSH
+Before you go to sleep, brush your teeth	SLEEP BEFORE BRUSH
+brush	BRUSH
+eat	EAT
+All night I eat pap	ME ALL-NIGHT PAP EAT
+eat	EAT
+play	PLAY
+The children play outside.	CHILDREN OUTSIDE PLAY
+play	PLAY
+stop	STOP
+Stop fighting.	FIGHTING STOP.
+stop	STOP
+happy	HAPPY
+I am happy because my uncle is visiting.	ME HAPPY WHY UNCLE ARRIVE
+happy.	HAPPY.
+sad.	SAD.
+My father is sad because mother is gone.	FATHER THERE SAD WHY MOTHER GONE.
+sad.	SAD.
+sore.	SORE.
+I am sick. My head is sore.	ME SICK HEAD SORE
+sore.	SORE.
+hungry	HUNGRY
+I have not eaten all day. I am hungry.	ALL-DAY EAT NOTHING ME HUNGRY.
+hungry.	HUNGRY.
+thirsty.	THIRSTY.
+It is hot and I am thirsty.	HOT ME THIRSTY.
+thirsty.	THIRSTY.
+angry.	ANGRY.
+I am angry because that girl threw a stone at the dog.	GIRL THERE DOG STONE-THROW ME ANGRY.
+angry.	ANGRY.
+now.	NOW.
+Come here now.	COME NOW COME.
+come.	COME.
+yesterday.	YESTERDAY.
+Yesterday I tripped and fell.	YESTERDAY ME WALK FALL.
+yesterday.	YESTERDAY.
+today.	TODAY.
+Today is Monday.	TODAY MONDAY.
+Mother is going to work.	MOTHER WORK GONE.
+today.	TODAY.
+tomorrow.	TOMORROW.
+Tomorrow you and I are going to visit grandmother.	TOMORROW MOTHER OLD YOU ME VISIT
+tomorrow.	TOMORROW.
+monday.	MONDAY.
+monday.	Monday.
+tuesday.	TUESDAY.
+tuesday.	TUESDAY.
+wednesday.	WEDNESDAY.
+wednesday.	WEDNESDAY.
+thursday.	THURSDAY
+thursday.	THURSDAY.
+friday.	FRIDAY.
+friday.	FRIDAY.
+saturday.	SATURDAY
+saturday	SATURDAY
+sunday.	SUNDAY.
+sunday.	SUNDAY.
+week.	WEEK.
+Dad is coming home in two weeks.	TWO-WEEK FATHER HOME TWO.
+week	WEEK.
+month.	MONTH.
+Next month I will by new clothes.	MONTH NEXT CLOTHES BUY NEW.
+year.	YEAR.
+My family has lived in that house for three years.	HOUSE FAMILY LIVE YEAR THREE.
+year.	YEAR.
+birthday.	BIRTHDAY.
+Tomorrow it is my birthday.	TOMORROW BIRTHDAY ME.
+oh I see.	oh-i-see
+oh hi	oh hi
+you will learn south african sign language	You learn south african sign language
+a	a
+b	b
+c	c
+d	d
+e	e
+f	f
+g	g
+h	h
+i	i
+j	j
+k	k
+k	k
+l	l
+m finger is placed here	m here
+n	n
+o	o
+p is the same as k but down p	p k-down p
+q	q
+r	r
+s	s
+t	t
+u	u
+v	v
+w	w
+x	x
+y	y
+z	z
+hello	hello
+hello	hello
+how are you?	how-are-you
+how are you?	how-are-you
+what is your name?	name you what
+what is your name?	name you what
+where do you live?	you live where
+where do you live?	you live where
+what work do you do?	you work what
+what work do you do?	you work what
+what are you studying?	you study what
+what are you studying?	you study what
+which university are you at?	university you study where
+which university are you at?	university you study where
+student	student
+student	student
+what	what
+who	who
+why	why
+which	which
+when	when
+how	how
+how much	how much
+how much	how much
+how many	how many
+how many	how many
+how long	how long
+how long	how long
+how old are you?	old you
+how old are you	old you
+or	or
+no	no
+no	no
+yes	yes
+yes	yes
+but	but
+have	have
+same	same
+different	different
+because	because
+again	again
+after	after
+before	before
+do you understand?	you understand
+i do not understand	me misunderstand
+please	please
+thank you	thank-you
+sorry	sorry
+question	question
+i know	know
+i remember	remember
+i forgot	forgot
+can i go now?	now go yes
+can i go now?	now go yes
+bye bye	bye
+it was nice to meet you	nice meet-you
+it was nice to meet you	nice meet-you
+deaf	deaf
+hearing	hearing
+learn	learn
+learn	learn
+like	like
+like	like
+love	love
+meaning	mean
+meet	meet
+meet	meet
+sign slow please	sign slow please
+sign slow please	sign slow please
+facilitator	facilitator
+lecture	lecture
+lecturer	lecture person
+tutorial	tutorial
+tutor	tutorial person
+hello welcome	hello welcome
+we want to interview you today because you studied sign language at UCT	today interview why before you learn sign language where U-C-T
+how are you?	how-are-you
+I am well thank you. How are you?	I-am-good thank-you you how-are-you?
+I am good, thank you	i-am-good thank-you
+now for the interview. I would love to hear all about your experiences.	now interview why you tell-me-about your experience
+how did you learn sign language?	sign language you learn how
+i started studying at UCT in 2014	i start university cape-town 20-14
+in first year I studied linguistics	first year study what linguistics
+we recieved an email saying that there are two deaf students who want to teach sign language	we-recieved-email say what two deaf students want have teach sign language
+I thought, ok, i'll join the class and I started to learn with Robyn and Yuvini	i think O-K join class and learn learn with Roobyn Yuvini
+interesting. Why did you learn sign language?	interesting sign language learn why
+When I started learning it was because it was something new. I wanted to be an interpreter but not for sign language, for italian and arabic. So spoken language things.	when start learn why i thing new.
+I wanted to be an interpreter but not for sign language, for italian and arabic.	want interpret but sign language no want interpret for i-t-a-l-i-a-n italian a-r-a-b-i-c arabic.
+So spoken language things.	hearing translation things
+But when i started learning sign language, wow, my mind opened.	but when start learn sign language wow my-mind-opened.
+I learnt that there are many applications for sign language.	learnt many applications for sign language.
+Now I want to change my language to interpret to sign language and help the Deaf community in the same way the Deaf community helped me.	now interpreter change help deaf community way deaf community help-me
+do you have any advice to give to other hearing people who want to learn sign language?	think advice-give other hearing people learn sign language have
+good advice to give hearing people who are starting to learn sign language.	good advice hearing people start learn sign language.
+wow.	wow.
+many things to say	many
+The most important thing to learn is to listen with your eyes and not your ears.	say most important need learn how recieve eyes not ears.
+Because sign language is all visual.	because sign language all visual.
+If you try to lip read it will not help you,you need to focus on the person's hands and look how they sign and what the signs mean. You will learn faster.	if recieve lip-reading will-not help-you need sign-watch how sign mean learn fast. also need conversation deaf person easy learn.
+Also you also need to converse with a deaf person quickly because it's easier to learn.	also need conversation deaf person easy learn.
+what are your thoughts on sign language deprivation	sign language deprivation your thoughts what
+yes it is a big problem.	yes big problem.
+yes it is a big problem, specifically in south africa because people do not understand the importance of giving a child sign language	specifically south africa why people do-not-understand important sign language give deaf child.
+the child grows up open minded which allows them to intergrate into the world	the-child grows-up open-minded grammar intergrate can world perfectly
+without language, a deaf child will not understand grammar and meaning and therefore be isolated by society- people will try to communicate but because of language deprivation there is limited language input.	without deaf children growing-up grammer-will-not-understand meaning-will-not-understand isolated society because people deaf try communicate but grow-up language deprivation have-no language input.
+growing up with lost communication, you are alone and isolated.	growing-up communication-lost time alone isolated
+do you consider yourself as part of the deaf community	consider deaf community you apart
+hmm, yes	hmm yes
+I think the question is complicated.	i-think question complicated
+I am a hearing person which means that my being a member of the deaf community....	me person hearing topic within member deaf community
+the inner circle of the deaf community no	deaf community inside circle inside no
+but the outer circle of the deaf community yes	but outer circle deaf community yes
+the inner circle consists of people who are born deaf- the close deaf commmunity	born deaf circle in centre close deaf community
+but if you are hearing and you know sign language you are part of the outer circle.	but if hearing know sign language outer-circle yes
+the inner circle of the deaf community are people who are deaf obviously	inner-circle deaf community but topic deaf obviously
+I think i am a member of the deaf community also because i am training to be a sign language interpreter.	for-me i-think yes-member deaf community also why interpreter change
+but the inner circle, am I deaf? no.	but inner deaf no
+what is your most embarrassing moment learning sign language	you learn sign language up-until-now happen one embarrassing what
+Once we went to a restuarant with robyn, yuvini, our friend chris, robyn's dad and myself	one time go restuarant robyn yuvini friend chris robyn dad myself
+All five of us sat at the table in the restuarant and chris said that he is vegetarian.	all-five sat-at-table restuarant chris say vegetarian
+Yuvini asked what the difference is between vegetarian and vegan is	yuvini ask vegetarian v-e-g-a-n different what
+i explained saying that vegetarians can eat pets	i explain say well vegetarian can eat pets
+this is pets. I meant to say animal products	this-pets pets mean animal products
+I see robyn drinking and then she puts her hand over her mouth because she wants to spit but she needs to swallow it.	see drinking hand-over-mouth need spit swallow
+Her dad is sitting opposite and she will spit on him	because dad opposite spit on him
+wow that was an embarrassing moment	wow embarrassing wow
+Any challenges?	challenges
+challenges wow	challenges wow
+I started living with robyn and yuvini and we were living together for one to two weeks.	start live robyn yuvini short one two weeks
+We went to go see a play about wheelchair users and the challenges they face on a faily basis.	go see play about wheelchair challenges people wheelchair see all daily
+After the show there was music and dancing but the interpreter said "oh, you do not need me to interpret the songs, bye" and walked away.	music after when dancing wheelchair dancing but interpreter say oh need me interpret songs no bye walked-away
+the interpreter was gone	mean interpreter gone
+I sat with robyn and yuvini interpreting the songs for myself because I was not a qualified interpreter	i sit robyn yuvini interpret songs for-myself because not-qualified interpreter
+I felt a tap on my shoulder and there was a deaf man who said "please go interpret, please go interpret"	tap-on-my-shoulder i-look-up deaf man say please go interpret please go interpret
+I cannot interpret- I have not started my training to be an interpreter and I only just started living with Deaf people	me cannot interpret training not-start just-staying deaf people
+he said "please go, it's better than nothing"	please go better nothing
+I though- okay, it's better than nothing so walked to the stage and sat there interpreting the songs	o-k better nothing i-walk sit stage start interpreting songs
+thank god i knew the songs before but it was still difficult because i needed to sign quickly and keep up	thank god know songs before but difficult fast need sign quickly sign-to-keep-up
+For me it was a good challenge because i was forced to interpret because I wanted to help my friends.	but for-me good challenge because i-went forced there interpret need interpret because help friends mine.
+for me it was a good challenge	for-me good good challenge
+Interesting your experiences are interesting.	interesting. your experience you-signed-to-me wow
+I am sure our viewers enjoyed watching.	I sure viewers watch enjoy
+thank you	thank you
+next week we will focus on the following vocabulary: relationships, UCT, numbers and time.	next week focus what vocabulary first relationships second U-C-T third numbers fouth time.
+Plus I am excited to interview Jabaar.	plus excited interview who Jabaar.
+See you all next week.	see-you next week.
+I love you	I-love-you
